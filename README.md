@@ -7,6 +7,7 @@ Database:
 
 Site:
 1. Open the repository in external editor (I've used Visual Studio Code)
-2. Open terminal and type node app.js
-3. Go to http://localhost:3000/
-4. Press left mouse button to display jokes
+2. Open terminal and type npm install
+3. After the installation finishes type node app.js to start the server
+4. Go to http://localhost:3000/
+5. Press left mouse button to display jokes
