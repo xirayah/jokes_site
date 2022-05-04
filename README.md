@@ -1,6 +1,7 @@
 # The Jokes Site
 Site displaying random jokes at the click of a button.
 Installation instructions
+
 Database:
 1. Install [XAMPP](https://www.apachefriends.org/download.html) (or use another MySQL database management system)
 2. Launch XAMPP and turn on the Apache and MySQL modules
